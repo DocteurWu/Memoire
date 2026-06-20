@@ -1,9 +1,0 @@
-Note relative à l'assistance d'une intelligence informatique 
-
-Dans le cadre de la finalisation de ce mémoire, nous avons eu recours à des outils d'intelligence artificielle générative de manière plutôt encadrée. 
-
-L'usage de l'IA a été notamment utilisé pour les aspects suivants :
-- Correction des erreurs de syntaxe du code (avec certains commentaires !) 
-- Amélioration de la fluidité grammaticale et la clarté des formulations linguistiques pour les textes du code et du mémoire.
-
-L'intégralité du contenu intellectuel, de la structure argumentative, de l'analyse des données et des conclusions présentées dans ce travail est le fruit de notre propre réflexion et de nos recherches personnelles. L'IA a servi exclusivement d'assistant incroyable pour améliorer (de pas mal !) la qualité formelle de la langue française.
